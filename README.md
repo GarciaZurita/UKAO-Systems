@@ -26,6 +26,7 @@ También se aplicaron pruebas de voltaje y continuidad para garantizar la
 correcta alimentación de cada componente y descartar fallos de conexión. 
 
 Sketch (.ino) comentado y funciones principales: 
+
 El código final fue documentado línea por línea para facilitar su comprensión y 
 futuras modificaciones. Entre sus principales funciones se encuentran: 
 
@@ -60,6 +61,7 @@ Pruebas de entrada/salida (I/O):
 
 Se realizaron múltiples pruebas de funcionamiento tanto en software como en 
 hardware: 
+
 Prueba 1: Alimentación y continuidad 
 
  • Se verificó que la línea de 5V alimentara correctamente la breadboard. 
@@ -106,7 +108,8 @@ Conclusiones:
 
 El proceso de depuración intensiva permitió garantizar la estabilidad y 
 funcionalidad completa del sistema de triage, asegurando que tanto el 
-hardware como el software trabajen de manera sincronizada. 
+hardware como el software trabajen de manera sincronizada.
+
 Gracias a las pruebas I/O, el uso del monitor serial y la corrección de errores en 
 tiempo real, se logró que el sistema identifique de forma confiable el estado del 
 paciente y active las señales visuales y auditivas correspondientes.

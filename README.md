@@ -4,6 +4,7 @@ Codigo Arduino
 El proyecto consiste en el diseño, prototipado y validación de una pulsera de triage inteligente que funcione como un nodo de información médica crítica portátil
 
 Descripción del proceso de pruebas I/O y depuración en vivo 
+
 Durante esta etapa del proyecto se realizó un proceso de debug intensivo 
 sobre el sistema de triage médico desarrollado con Arduino UNO, con el 
 objetivo de verificar la correcta operación de las entradas y salidas (I/O), 

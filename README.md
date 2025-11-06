@@ -1,4 +1,5 @@
 # UKAO-Systems
+Codigo Arduino
 El proyecto consiste en el diseño, prototipado y validación de una pulsera de triage inteligente que funcione como un nodo de información médica crítica portátil
 
 Descripción del proceso de pruebas I/O y depuración en vivo 
@@ -85,7 +86,8 @@ pulso simulado.
   o Menor a 30 o mayor a 120 → LED azul y tono continuo indicando paro. 
 
 Registro de depuración (Debug Log):
-<img width="646" height="493" alt="UKAO-Systems" src="https://github.com/user-attachments/assets/b9bc02d5-7459-435a-a642-4a4a9880079a" />
+<img width="643" height="494" alt="image" src="https://github.com/user-attachments/assets/e5fccd98-1949-4971-b3dd-81123c8a7472" />
+
 
 Conclusiones:
 
